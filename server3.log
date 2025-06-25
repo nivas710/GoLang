@@ -1,0 +1,4 @@
+DEBUG: Verbose logging enabled
+INFO: Server received shutdown signal
+ERROR: Could not close database connection
+INFO: Server shutdown complete
