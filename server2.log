@@ -1,0 +1,5 @@
+INFO: Health check passed
+INFO: New connection established
+ERROR: Unauthorized access attempt detected
+WARNING: Memory usage high
+ERROR: Disk read error on /dev/sda1
