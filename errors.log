@@ -1,0 +1,5 @@
+ERROR: Failed to connect to database
+ERROR: Timeout occurred while processing request
+ERROR: Could not close database connection
+ERROR: Unauthorized access attempt detected
+ERROR: Disk read error on /dev/sda1
